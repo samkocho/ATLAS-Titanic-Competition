@@ -1,3 +1,7 @@
+# About my first project:
+- pdf file is the presentation with the results of the project
+- python notebook file has the code that was used. 
+
 # ATLAS-Titanic-Competition
 
 ## Kaggle Competition details:
@@ -24,3 +28,5 @@ Ranked 1518th.
 Developed a predictive model with a 87% accuracy using Python to determine factors influencing survival rates in the Titanic disaster using passenger data.
 
 Employed various machine learning algorithms including decision trees, random forests, and gradient boosting alongside hyperparameter tuning to build predictive models. 
+
+
