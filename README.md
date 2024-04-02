@@ -23,7 +23,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 
 ## Group work: 
-Ranked 1518th.
+Ranked 1518th out of 16,000 submissions.
 
 Developed a predictive model with a 87% accuracy using Python to determine factors influencing survival rates in the Titanic disaster using passenger data.
 
